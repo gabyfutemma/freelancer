@@ -207,7 +207,7 @@ img {
 .portfolio-images img {
   width: 315px;
   height: 100%;
-	margin: 13px 0px;
+  margin: 13px 0px;
 }
 
 .about-config {
@@ -220,17 +220,17 @@ img {
 
 .article {
   margin-top: 11px;
-	font-size: 19px;
-	font-weight: 700;
+  font-size: 19px;
+  font-weight: 700;
   letter-spacing: -0.5px;
   line-height: 27px;
-	text-align: left;
-	display: flex;
+  text-align: left;
+  display: flex;
 }
 
 .about-article {
   width: 323px;
-	height: 167px;
+  height: 167px;
 }
 
 .ml-10 {
